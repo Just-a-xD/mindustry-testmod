@@ -1,0 +1,2 @@
+# mindustry-testmod
+Test
